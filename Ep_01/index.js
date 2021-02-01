@@ -31,4 +31,4 @@ client.on("message", async message => {
 });
 
 // Login the bot
-client.login(process.env.TOKEN);
+client.login("NzkxNzgxMzY4NTUxNzAyNTc5.X-UJ3A.9ZZsyLMy70lTow8kGKwlPavV0WA")
